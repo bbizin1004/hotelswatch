@@ -36,7 +36,7 @@
 				</button>
 				<ul class="my_account_box">
 					<li><a href="/mypage.do">내 계정</a></li>
-					<c:if test="${member.admin eq 'y'}">
+					<c:if test="${member.admin eq 'y' or member.admin eq 'm'}">
 						<li><a href="/admin.do">관리자페이지</a></li>
 					</c:if>
 					<li><button type="button" class="logout_btn"
