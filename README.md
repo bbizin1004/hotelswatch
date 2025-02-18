@@ -41,7 +41,7 @@
 
 [![](https://github.com/weniv/project_sample_repo/raw/main/map.png)](https://github.com/weniv/project_sample_repo/blob/main/map.png)
 
-- 머메이드를 이용해 시각화 할 수 있습니다.
+
 
 
 
