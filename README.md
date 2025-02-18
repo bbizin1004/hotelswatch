@@ -60,6 +60,8 @@
 ### 4-4. 이메일 계정 로그인
 ![이메일](src/main/resources/static/images/login.png)
 
+![이메일](src/main/resources/static/images/authentication.png)
+
 ### 4-5. sns 계정 인증
 ![이메일](src/main/resources/static/images/sns.png)
 
