@@ -30,7 +30,8 @@
 - API: 네이버 로그인,구글 SMTP
 - Payment: PortOne
 
-### 2.2 배포 URL --> 변경하여 작성
+### 2.2 배포 URL
+현재는 aws는 중지시켜 놓은 상태
 
 
 
