@@ -49,13 +49,19 @@
 - 체크 아웃 날짜는 체크인 날짜보다 하루이상 커야함
 
 ### 4-2. 검색기능
-![기능명세](src/main/resources/static/images/search.png)
+![검색](src/main/resources/static/images/search.png)
 
+### 4-2. 지도기능
+![지도](src/main/resources/static/images/search.png)
 
-### 4-1. 이메일 계정 로그인
-- 이메일 주소가 공백인 경우 이메일 주소 입력해주세요 경고
-- selenium과 airflow 또는 spring batch를 이용한 정기적인 업데이트
-- 캘린더에 저장된 여행지를 수집하여 사용자의 여행지 선호도 순위를 시각화
+### 4-3. 후기
+![지도](src/main/resources/static/images/review.png)
+
+### 4-4. 이메일 계정 로그인
+![이메일](src/main/resources/static/images/login.png)
+
+### 4-5. sns 계정 인증
+![이메일](src/main/resources/static/images/sns.png)
 
 
 
