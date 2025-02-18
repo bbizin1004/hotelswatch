@@ -39,7 +39,7 @@
 - [https://www.mindmeister.com/](https://www.mindmeister.com/) 등을 사용하여 모델링 및 요구사항 명세를 시각화하면 좋습니다.
 - 이미지는 셈플 이미지입니다.
 
-[![](https://github.com/weniv/project_sample_repo/raw/main/map.png)](https://github.com/weniv/project_sample_repo/blob/main/map.png)
+[![](https://src/main/resources/static/images/호텔스와치 기능명세.png)](https://src/main/resources/static/images/호텔스와치 기능명세.png)
 
 
 
