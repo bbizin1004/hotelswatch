@@ -36,6 +36,7 @@
 
 ## 3. 요구사항 명세와 기능 명세 --> 변경하여 작성
 ![](src/main/resources/static/images/호텔스와치 기능명세.png)
+![기능명세](src/main/resources/static/images/호텔스와치 기능명세.png)
 
 
 
