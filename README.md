@@ -65,9 +65,10 @@
 ### 4-5. sns 계정 인증
 ![이메일](src/main/resources/static/images/sns.png)
 
+### 4-5. 결제 포트원api
+![이메일](src/main/resources/static/images/portone.png)
+
+### 4-5. 마이페이지
+![이메일](src/main/resources/static/images/mypage.png)
 
 
-### 4-3. 문화재 및 전통 기법을 이용한 굿즈 소개 및 판매
-- 해당 굿즈에 대한 내용 및 수량을 확인
-- 장바구니에 해당 품목을 저장
-- 아임포트를 사용하여 결제 구현
