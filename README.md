@@ -21,7 +21,8 @@
 
 ## 2. 개발 환경 및 배포 URL 
 ### 2.1 개발 환경 
-
+-개발 툴: Eclipse
+-데이터베이스 : Oracle Database
 
 #### 기술 스택
 - Backend: Java 17, Spring Boot 3.x,JDBC,JPA
